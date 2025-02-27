@@ -48,3 +48,11 @@ The editor offers several customization options in the sidebar:
 - **Line Numbers**: Toggle display of line numbers/gutter
 - **Language**: Choose between Python and JavaScript (only Python execution is currently supported)
 
+## How It Works
+
+1. The app uses the `streamlit-ace` component to provide a code editor interface
+2. When you click "Run Code", the app:
+   - Saves your code to a temporary Python file
+   - Executes it using Python's subprocess module
+   - Captures and displays stdout and stderr in the console
+
