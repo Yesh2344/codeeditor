@@ -39,3 +39,12 @@ A web-based code editor with integrated console built using Streamlit.
 
 3. Write your Python code in the editor and click "Run Code" to execute it
 
+## Configuration
+
+The editor offers several customization options in the sidebar:
+
+- **Editor Theme**: Choose from Monokai, GitHub, Solarized Dark, Solarized Light, or Dracula
+- **Font Size**: Adjust between 12 and 24 points
+- **Line Numbers**: Toggle display of line numbers/gutter
+- **Language**: Choose between Python and JavaScript (only Python execution is currently supported)
+
