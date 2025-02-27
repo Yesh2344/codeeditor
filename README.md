@@ -28,3 +28,14 @@ A web-based code editor with integrated console built using Streamlit.
    pip install streamlit streamlit-ace
    ```
 
+## Usage
+
+1. Run the Streamlit app:
+   ```
+   streamlit run app.py
+   ```
+
+2. The app will open in your default web browser at `http://localhost:8501`
+
+3. Write your Python code in the editor and click "Run Code" to execute it
+
