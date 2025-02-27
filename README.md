@@ -56,3 +56,17 @@ The editor offers several customization options in the sidebar:
    - Executes it using Python's subprocess module
    - Captures and displays stdout and stderr in the console
 
+## Limitations
+
+- Currently, only Python code execution is supported
+- The app does not persist code between sessions
+- No file management features are available yet
+
+## Future Enhancements
+
+- Support for JavaScript execution
+- Code persistence between sessions
+- File management (load/save)
+- Additional language support
+- Integrated plotting capabilities
+
