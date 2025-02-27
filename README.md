@@ -15,3 +15,16 @@ A web-based code editor with integrated console built using Streamlit.
 - JavaScript syntax highlighting (execution not yet supported)
 - Integrated console output display
 
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/streamlit-code-editor.git
+   cd streamlit-code-editor
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install streamlit streamlit-ace
+   ```
+
