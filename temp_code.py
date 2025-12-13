@@ -102,6 +102,7 @@ if st.button("Run Code"):
             st.error(f"Error: {e}")
 
     else:
+# Added comment
 
         st.warning("Currently, only Python code execution is supported.")
 
