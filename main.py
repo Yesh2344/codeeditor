@@ -31,6 +31,7 @@ code = st_ace(language=language,
               font_size=font_size,
               show_gutter=show_gutter,
               auto_update=True,
+# Added comment
               key="editor")
 
 # Run button
