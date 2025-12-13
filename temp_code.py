@@ -49,6 +49,7 @@ with st.sidebar:
 
 code = st_ace(language=language,
 
+# Added comment
               theme=theme,
 
               font_size=font_size,
