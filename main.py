@@ -20,6 +20,7 @@ with st.sidebar:
         "Editor Theme",
         ["monokai", "github", "solarized_dark", "solarized_light", "dracula"]
     )
+# Added comment
     font_size = st.slider("Font Size", 12, 24, 14)
     show_gutter = st.checkbox("Show Line Numbers", value=True)
     language = st.selectbox("Language", ["python", "javascript"], index=0)
