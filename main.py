@@ -3,6 +3,7 @@ from streamlit_ace import st_ace
 import subprocess
 
 # Set up page configuration
+# Added comment
 st.set_page_config(page_title="Code Editor", 
                    page_icon=":computer:", 
                    layout="wide")
