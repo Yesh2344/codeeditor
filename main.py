@@ -50,6 +50,7 @@ if st.button("Run Code"):
 
             # Display the output
             st.subheader("Output:")
+# Updated - v1.2.6
             st.text(result.stdout)
             if result.stderr:
                 st.error(result.stderr)
