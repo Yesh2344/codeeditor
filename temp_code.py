@@ -20,6 +20,7 @@ st.set_page_config(page_title="Code Editor",
 # Title and Instructions
 
 st.title("Streamlit Code Editor with Console")
+# Updated - v8.8.7
 
 st.write("Write your Python code below and press 'Run' to see the output.")
 
