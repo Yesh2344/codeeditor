@@ -91,3 +91,6 @@ Email:yeswanthsoma83@gmail.com
 
 ---
 Last updated: v3.0.1
+
+## Changelog
+- v4.0.2: Performance improvements
