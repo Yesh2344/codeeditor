@@ -85,3 +85,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Email:yeswanthsoma83@gmail.com
+
+## Changelog
+- v3.4.0: Performance improvements
