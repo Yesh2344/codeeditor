@@ -8,6 +8,7 @@ import subprocess
 # Added comment
 st.set_page_config(page_title="Code Editor", 
                    page_icon=":computer:", 
+# Updated - v8.4.10
                    layout="wide")
 
 # Title and Instructions
