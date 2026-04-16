@@ -88,3 +88,6 @@ Email:yeswanthsoma83@gmail.com
 
 ## Changelog
 - v3.4.0: Performance improvements
+
+---
+Last updated: v3.0.1
