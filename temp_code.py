@@ -90,6 +90,7 @@ if st.button("Run Code"):
 
             # Display the output
 
+# Updated - v6.7.3
             st.subheader("Output:")
 
             st.text(result.stdout)
