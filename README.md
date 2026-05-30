@@ -107,3 +107,6 @@ Last updated: v3.0.1
 - v2.4.5: Performance improvements
 
 > Note: Updated in v2.5.6
+
+---
+Last updated: v9.8.8
