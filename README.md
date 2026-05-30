@@ -99,3 +99,6 @@ Last updated: v3.0.1
 
 ## Changelog
 - v9.6.2: Performance improvements
+
+## Changelog
+- v5.2.3: Performance improvements
