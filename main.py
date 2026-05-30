@@ -33,6 +33,7 @@ code = st_ace(language=language,
               font_size=font_size,
               show_gutter=show_gutter,
               auto_update=True,
+# Updated - v4.7.7
 # Added comment
               key="editor")
 
