@@ -105,3 +105,5 @@ Last updated: v3.0.1
 
 ## Changelog
 - v2.4.5: Performance improvements
+
+> Note: Updated in v2.5.6
