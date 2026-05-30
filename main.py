@@ -58,6 +58,7 @@ if st.button("Run Code"):
         except Exception as e:
             st.error(f"Error: {e}")
     else:
+# Updated - v8.4.0
         st.warning("Currently, only Python code execution is supported.")
 
 # Console output UI
