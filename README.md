@@ -1,4 +1,4 @@
-# Streamlit Code 
+# Streamlit Code Editor
 
 A web-based code editor with integrated console built using Streamlit.
 
